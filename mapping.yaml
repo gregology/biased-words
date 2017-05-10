@@ -1,0 +1,18 @@
+---
+gendered:
+  files:
+    - gendered-nouns.txt
+    - gendered-adjectives.txt
+gendered-nouns:
+  files:
+    - gendered-nouns.txt
+gendered-adjectives:
+  files:
+    - gendered-adjectives.txt
+us-names:
+  files:
+    - us-names.txt
+common-us-names:
+  files:
+    - us-names.txt
+  limit: 1000

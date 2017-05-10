@@ -1,13 +1,10 @@
-actor
-actress
 aunt
 auntie
-bachelor
 bastard
 bitch
 boy
 boyfriend
-boy scout
+boy-scout
 brother
 dad
 daddy
@@ -16,7 +13,7 @@ gentleman
 gentlemen
 girl
 girlfriend
-girl guide
+girl-guide
 he
 he'd
 he'll
@@ -31,8 +28,6 @@ husband
 lad
 ladies
 lady
-landlady
-landlord
 lass
 madam
 male
@@ -53,11 +48,13 @@ she's
 sir
 sister
 slut
-spinster
 stud
 uncle
-waiter
-waitress
 wife
 woman
 women
+granny
+grandfather
+grandmother
+father
+mother
