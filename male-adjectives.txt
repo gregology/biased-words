@@ -1,0 +1,6 @@
+bachelor
+paternal
+hero
+host
+male
+feminine

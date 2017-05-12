@@ -1,32 +1,19 @@
-# Biased Stop Words
+# Biased words
 
 *Bias are bugs*
 
 ## About
 
-Stop words are words which are filtered out before processing of natural language data. Often in text analysis there are non-casual correlations, consider the following:
+Genres of english words with bias for use in natural language processing.
 
-`He is an astronaut, he is on Venus`
-`He is an accountant, he is on Earth`
-`She is an astronaut, she is on Mars`
+## Uses
 
-Processing these sentences into two topics will result in gendered clustering. If we remove the gendered terms:
-
-`is an astronaut, is on Venus`
-`is an accountant, is on Earth`
-`is an astronaut, is on Mars`
-
-Processing will result in job clustering. Both clusterings are valid, however if you are interested in employing an astronaut, you don't want male accountants showing up.
+ - Create biased stop word lists, see [biased-stop-words](https://pypi.python.org/pypi/biased-stop-words) for python implementation
+ - Pollute documents with non-casual words in order to test natural language models.
 
 ## Genres of Bias
 
  - Gender
- - Names
+ - Names (proxy for gender, background, ethnicity, religion)
 
 *More coming, please contribute*
-
-## Implementations
-
-### Python
-
-[biased-stop-words](https://pypi.python.org/pypi/biased-stop-words)

@@ -1,0 +1,11 @@
+actor
+emperor
+hero
+host
+waiter
+landlord
+fireman
+policeman
+firemen
+policemen
+steward

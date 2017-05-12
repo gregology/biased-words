@@ -1,0 +1,11 @@
+actress
+empress
+heroine
+hostess
+waitress
+landlord
+firewoman
+policewoman
+firewomen
+policewomen
+stewardess

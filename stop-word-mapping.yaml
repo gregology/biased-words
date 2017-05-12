@@ -1,0 +1,37 @@
+---
+gendered:
+  about: gendered terms excluding names
+  files:
+    - female-adjectives.txt
+    - female-job-titles.txt
+    - female-nouns.txt
+    - female-relationships.txt
+    - female-titles.txt
+    - male-adjectives.txt
+    - male-job-titles.txt
+    - male-nouns.txt
+    - male-relationships.txt
+    - male-titles.txt
+gendered-nouns:
+  files:
+    - female-nouns.txt
+    - male-nouns.txt
+us-common-names:
+  about: top 1000 US female and top 1000 US male baby names from 1880-2016
+  files:
+    - us-female-names.txt
+    - us-male-names.txt
+  limit: 1000
+us-female-names:
+  about: top 5000 US female baby names from 1880-2016
+  files:
+    - us-female-names.txt
+us-male-names:
+  about: top 5000 US male baby names from 1880-2016
+  files:
+    - us-male-names.txt
+us-names:
+  about: top 5000 US female and top 5000 US male baby names from 1880-2016
+  files:
+    - us-female-names.txt
+    - us-male-names.txt
