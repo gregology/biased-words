@@ -1,23 +1,23 @@
-Ashi
-Baugrygr
-Burgher
-Begum
-Count
-Dame
-Fräulein
-Gentlewoman
-Goodwife
-Grand Burgher
-Her Honour
-Khanum
-Lady
-Lady Mayoress
-Lalla
-Madam
-Mademoiselle
-Mamsell
-Miss
-Mistress
-Mrs
-Ms
-Shrimati
+ashi
+baugrygr
+burgher
+begum
+count
+dame
+fräulein
+gentlewoman
+goodwife
+grand burgher
+her honour
+khanum
+lady
+lady mayoress
+lalla
+madam
+mademoiselle
+mamsell
+miss
+mistress
+mrs
+ms
+shrimati

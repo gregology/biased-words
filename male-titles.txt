@@ -1,49 +1,49 @@
-Archduke
-Ashwapati
-Baron
-Chhatrapati
-Count
-Damapati
-Darbar
-Dewan Bahadur
-Dom
-Don
-Duke
-Earl
-Emperor
-Esquire
-Gentleman
-Goodman
-Grand Burgher
-Grand duke
-Inamdar
-Swedish jarls
-Kabiraj
-Kaviraj
-Khan
-Lord
-Margrave
-Marquess
-Master
-Mesne lord
-Monseigneur
-Monsieur
-Mr
-Noyan
-Pandit
-Prince
-Prince du sang
-Qanungoh Shaikh
-Rai Sahib
-Raj Ratna
-Rao Bahadur
-Rao Saheb
-Ritter
-Sahib
-Senapati
-Senhor
-Sidi
-Sir
-Son of Heaven
-Vaidya
-Viscount
+archduke
+ashwapati
+baron
+chhatrapati
+count
+damapati
+darbar
+dewan bahadur
+dom
+don
+duke
+earl
+emperor
+esquire
+gentleman
+goodman
+grand burgher
+grand duke
+inamdar
+swedish jarls
+kabiraj
+kaviraj
+khan
+lord
+margrave
+marquess
+master
+mesne lord
+monseigneur
+monsieur
+mr
+noyan
+pandit
+prince
+prince du sang
+qanungoh shaikh
+rai sahib
+raj ratna
+rao bahadur
+rao saheb
+ritter
+sahib
+senapati
+senhor
+sidi
+sir
+son of heaven
+vaidya
+viscount
