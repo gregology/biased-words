@@ -17,21 +17,21 @@ gendered-nouns:
     - female-nouns.txt
     - male-nouns.txt
 us-common-names:
-  about: top 1000 US female and top 1000 US male baby names from 1880-2016
+  about: top 1000 US female and top 1000 US male baby names (1919 unique names) from 1880-2013 ordered by popularity sourced from the Social Security Administration
   files:
     - us-female-names.txt
     - us-male-names.txt
   limit: 1000
 us-female-names:
-  about: top 5000 US female baby names from 1880-2016
+  about: top 5000 US female baby names from 1880-2013 ordered by popularity sourced from the Social Security Administration
   files:
     - us-female-names.txt
 us-male-names:
-  about: top 5000 US male baby names from 1880-2016
+  about: top 5000 US male baby names from 1880-2013 ordered by popularity sourced from the Social Security Administration
   files:
     - us-male-names.txt
 us-names:
-  about: top 5000 US female and top 5000 US male baby names from 1880-2016
+  about: top 5000 US female and top 5000 US male baby names from 1880-2013 ordered by popularity sourced from the Social Security Administration
   files:
     - us-female-names.txt
     - us-male-names.txt
