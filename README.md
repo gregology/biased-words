@@ -15,5 +15,6 @@ Genres of english words with bias for use in natural language processing.
 
  - Gender
  - Names (proxy for gender, background, ethnicity, religion)
+ - Religion (partial, includes some Christian and Islamic terms)
 
 *More coming, please contribute*

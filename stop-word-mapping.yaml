@@ -35,3 +35,8 @@ us-names:
   files:
     - us-female-names.txt
     - us-male-names.txt
+religions:
+  about: a very incomplete list of religous terms from Christianity and Islam
+  files:
+    - christian-terms.txt
+    - islamic-terms.txt
