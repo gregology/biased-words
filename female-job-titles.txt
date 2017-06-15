@@ -3,7 +3,7 @@ empress
 heroine
 hostess
 waitress
-landlord
+landlady
 firewoman
 policewoman
 firewomen
