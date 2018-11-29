@@ -5,7 +5,8 @@ chhatrapati
 count
 damapati
 darbar
-dewan bahadur
+dewan
+bahadur
 dom
 don
 duke
@@ -14,10 +15,10 @@ emperor
 esquire
 gentleman
 goodman
-grand burgher
-grand duke
+burgher
+duke
 inamdar
-swedish jarls
+jarls
 kabiraj
 kaviraj
 khan
@@ -25,25 +26,25 @@ lord
 margrave
 marquess
 master
-mesne lord
+mesne
 monseigneur
 monsieur
 mr
 noyan
 pandit
 prince
-prince du sang
-qanungoh shaikh
-rai sahib
-raj ratna
-rao bahadur
-rao saheb
+qanungoh
+shaikh
+rai
+sahibratna
+rao
+bahadur
+saheb
 ritter
 sahib
 senapati
 senhor
 sidi
 sir
-son of heaven
 vaidya
 viscount
