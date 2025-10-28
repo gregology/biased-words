@@ -16,4 +16,9 @@ mr
 prince
 king
 shriman
+tsar
 viscount
+sultan
+abbot
+dauphin
+baronet

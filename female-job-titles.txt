@@ -9,3 +9,14 @@ policewoman
 firewomen
 policewomen
 stewardess
+chairwoman
+councilwoman
+congresswoman
+businesswoman
+saleswoman
+spokeswoman
+camerawoman
+craftswoman
+stateswoman
+postwoman
+fisherwoman
