@@ -22,3 +22,9 @@ sultan
 abbot
 dauphin
 baronet
+archduke
+chieftain
+rajkumar
+raja
+sheikh
+viceroy

@@ -22,3 +22,9 @@ sultana
 abbess
 dauphine
 baronetess
+archduchess
+chieftainess
+rajkumari
+rani
+sheikha
+vicereine

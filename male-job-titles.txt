@@ -20,3 +20,17 @@ craftsman
 statesman
 postman
 fisherman
+anchorman
+alderman
+assemblyman
+barman
+foreman
+headmaster
+milkman
+newsman
+ombudsman
+postmaster
+seamster
+songster
+sportsman
+washerman

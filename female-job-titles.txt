@@ -20,3 +20,17 @@ craftswoman
 stateswoman
 postwoman
 fisherwoman
+anchorwoman
+alderwoman
+assemblywoman
+barmaid
+forewoman
+headmistress
+milkmaid
+newswoman
+ombudswoman
+postmistress
+seamstress
+songstress
+sportswoman
+washerwoman

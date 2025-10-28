@@ -8,9 +8,11 @@ godson
 grandson
 grandfather
 grandpa
+patriarch
 master
 dad
 daddy
+papa
 father
 father-in-law
 nephew
@@ -18,3 +20,5 @@ brother
 brother-in-law
 stepfather
 husband
+groomsman
+brotherhood
