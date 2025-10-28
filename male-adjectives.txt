@@ -1,6 +1,6 @@
-bachelor
 paternal
-hero
-host
 male
-feminine
+masculine
+fatherly
+manly
+brotherly
